@@ -63,7 +63,7 @@ https://proai-datasets.s3.eu-west-3.amazonaws.com/credit_card_customers.csv
 2.**Installare le librerie richieste**:
   - assicurarsi di avere Python 3.10 installato
   - installare le librerie necessarie
-  - 
+    
 3.**Runnare il file Python**: eseguire il file Python usando direttamente un interprete Python come Google Colab.
 
 4. Settare il RANDOM_SEED, io l'ho settato a 2.

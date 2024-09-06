@@ -1,7 +1,7 @@
 # Segmentazione-della-clientela-di-un-azienda-di-servizi-finanziari
 
 Un'azienda di servizi finanziari sta investendo in una nuova campagna di marketing per per promuovere la propria linea di carte di credito.
-L'obiettivo è quello di segmentare la clientela attuale indentificando dei cluster verso la quale l'azienda dovrà indirizzare apposite campagne di marketing.
+L'obiettivo è quello di segmentare la clientela attuale identificando dei cluster verso la quale l'azienda dovrà indirizzare apposite campagne di marketing.
 
 ## Descrizione allegati:
 
